@@ -18,7 +18,7 @@ You can find more information about reporting and disclosure at the [Eclipse Fou
     Which releases of the project's software are actively maintaned and receive security updates?
 -->
 Supported versions are:
-* Jakarta EE 10
+Check individual repositories for latest versions.
 
 # Security Policy
 
